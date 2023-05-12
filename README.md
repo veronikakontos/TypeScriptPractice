@@ -1,2 +1,3 @@
-# typescript
-## Practicing Basic typescript.js 
+## typescript
+## Practicing Basic typescript.js  
+
